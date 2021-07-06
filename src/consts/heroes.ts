@@ -31,6 +31,12 @@ export const DoctorStrange : Hero = {
 	startingHP: 10,
 }
 
+export const Groot : Hero = {
+	name: 'Groot',
+	requires: 'Groot',
+	startingHP: 10,
+}
+
 export const Hawkeye : Hero = {
 	name: 'Hawkeye',
 	startingHP: 9,
